@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NewVision UserGraphiC">
+</Property><Property Name="方案檔" Value="C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC.suo">
+</Property><Property Name="Date" Value="2011年12月22日">
+</Property><Property Name="Time" Value="下午 17:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NewVision UserGraphiC.sln" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NewVision UserGraphiC.suo" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC.suo">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\NewVision UserGraphiC.csproj" Description="專案檔已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\NewVision UserGraphiC.csproj">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\NewVision UserGraphiC.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\NewVision UserGraphiC.csproj.user">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\CalculationRGB.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\CalculationRGB.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Distance.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Distance.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Distance_two.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Distance_two.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form1.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form1.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form2.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form2.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form2.Designer.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form3.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form3.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form3.Designer.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\ImageGamma.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\ImageGamma.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\InputBox.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\InputBox.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Look_up_table.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Look_up_table.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Program.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Program.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\RGB_to_XYZ.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\RGB_to_XYZ.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Situation.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Situation.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\XYZ_to_LAB.cs" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\XYZ_to_LAB.cs">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\MSGBOX02.bmp" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\MSGBOX02.bmp">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\information.png" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\information.png">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\monitor.png" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\monitor.png">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\x.png" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\x.png">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\camera.png" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\camera.png">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\1312869452_camera.png" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\1312869452_camera.png">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\灰階圖.PNG" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\灰階圖.PNG">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\色溫表.PNG" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\色溫表.PNG">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Resources\64.ico" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Resources\64.ico">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\複製狀態.tif.ico" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\複製狀態.tif.ico">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form1.resx" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form2.resx" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form2.resx">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Form3.resx" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Form3.resx">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\JLL_2011\Desktop\最終回\Backup\NewVision UserGraphiC\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\NewVision UserGraphiC.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\NewVision UserGraphiC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NewVision UserGraphiC.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="NewVision UserGraphiC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NewVision UserGraphiC" Source="NewVision UserGraphiC\NewVision UserGraphiC.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

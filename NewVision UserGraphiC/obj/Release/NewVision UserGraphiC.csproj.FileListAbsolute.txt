@@ -1,0 +1,8 @@
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Release\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Release\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Release\NewVision_UserGraphiC.Form1.resources
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Release\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Release\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Release\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Release\NewVision UserGraphiC.pdb

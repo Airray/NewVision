@@ -1,0 +1,183 @@
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\AppData\Local\Temporary Projects\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\NBLB5\Desktop\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\NBLB5\Desktop\ING\程式專案\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\Screen\Desktop\GP\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+F:\畢業專題\程式\NewVision\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\NBLB5\Desktop\Project\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\Gibby\Desktop\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+G:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+G:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+E:\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+G:\畢業專題\程式2\NewVision UserGraphiC\NewVision UserGraphiC\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+F:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+F:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+G:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+D:\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+D:\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+D:\NewVision\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+D:\NewVision\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+D:\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+H:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+I:\畢業專題\程式2\NewVision\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\Screen\Desktop\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+G:\畢業專題\程式2\XD\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+I:\畢業專題\程式2\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.csproj.GenerateResource.Cache
+C:\Users\Screen\Desktop\DUO\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\Screen\Desktop\DUO\XD\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.exe
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\NewVision UserGraphiC.pdb
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form1.resources
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form2.resources
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Form3.resources
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\NewVision_UserGraphiC.Properties.Resources.resources
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe.config
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.exe
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\bin\Debug\NewVision UserGraphiC.pdb
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\bin\Debug\Brightness.pdb
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\JLL_2011\Desktop\最終回\NewVision UserGraphiC\obj\Debug\GenerateResource.write.1.tlog
